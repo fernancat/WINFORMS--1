@@ -1,0 +1,17 @@
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\bin\Debug\net8.0-windows\calculadoraGalonesVehiculo.exe
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\bin\Debug\net8.0-windows\calculadoraGalonesVehiculo.deps.json
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\bin\Debug\net8.0-windows\calculadoraGalonesVehiculo.runtimeconfig.json
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\bin\Debug\net8.0-windows\calculadoraGalonesVehiculo.dll
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\bin\Debug\net8.0-windows\calculadoraGalonesVehiculo.pdb
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\calculadoraGalonesVehiculo.Form1.resources
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\calculadoraGalonesVehiculo.Properties.Resources.resources
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\calculadoraGalonesVehiculo.csproj.GenerateResource.cache
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\calculadoraGalonesVehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\calculadoraGalonesVehiculo.AssemblyInfoInputs.cache
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\calculadoraGalonesVehiculo.AssemblyInfo.cs
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\calculadoraGalonesVehiculo.csproj.CoreCompileInputs.cache
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\calculadoraGalonesVehiculo.dll
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\refint\calculadoraGalonesVehiculo.dll
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\calculadoraGalonesVehiculo.pdb
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\calculadoraGalonesVehiculo.genruntimeconfig.cache
+C:\Users\Fernan\source\repos\calculadoraGalonesVehiculo\calculadoraGalonesVehiculo\obj\Debug\net8.0-windows\ref\calculadoraGalonesVehiculo.dll

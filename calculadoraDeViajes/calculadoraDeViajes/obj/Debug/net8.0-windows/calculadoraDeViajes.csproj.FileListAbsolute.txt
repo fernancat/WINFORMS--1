@@ -1,0 +1,16 @@
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\bin\Debug\net8.0-windows\calculadoraDeViajes.exe
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\bin\Debug\net8.0-windows\calculadoraDeViajes.deps.json
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\bin\Debug\net8.0-windows\calculadoraDeViajes.runtimeconfig.json
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\bin\Debug\net8.0-windows\calculadoraDeViajes.dll
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\bin\Debug\net8.0-windows\calculadoraDeViajes.pdb
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\calculadoraDeViajes.Form1.resources
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\calculadoraDeViajes.csproj.GenerateResource.cache
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\calculadoraDeViajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\calculadoraDeViajes.AssemblyInfoInputs.cache
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\calculadoraDeViajes.AssemblyInfo.cs
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\calculadoraDeViajes.csproj.CoreCompileInputs.cache
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\calculadoraDeViajes.dll
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\refint\calculadoraDeViajes.dll
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\calculadoraDeViajes.pdb
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\calculadoraDeViajes.genruntimeconfig.cache
+C:\Users\Fernan\source\repos\calculadoraDeViajes\calculadoraDeViajes\obj\Debug\net8.0-windows\ref\calculadoraDeViajes.dll
